@@ -1,0 +1,9 @@
+C:\Users\Matias\source\repos\Calculadora\Operaciones\bin\Debug\netcoreapp3.1\Operaciones.deps.json
+C:\Users\Matias\source\repos\Calculadora\Operaciones\bin\Debug\netcoreapp3.1\Operaciones.dll
+C:\Users\Matias\source\repos\Calculadora\Operaciones\bin\Debug\netcoreapp3.1\Operaciones.pdb
+C:\Users\Matias\source\repos\Calculadora\Operaciones\obj\Debug\netcoreapp3.1\Operaciones.csprojAssemblyReference.cache
+C:\Users\Matias\source\repos\Calculadora\Operaciones\obj\Debug\netcoreapp3.1\Operaciones.AssemblyInfoInputs.cache
+C:\Users\Matias\source\repos\Calculadora\Operaciones\obj\Debug\netcoreapp3.1\Operaciones.AssemblyInfo.cs
+C:\Users\Matias\source\repos\Calculadora\Operaciones\obj\Debug\netcoreapp3.1\Operaciones.csproj.CoreCompileInputs.cache
+C:\Users\Matias\source\repos\Calculadora\Operaciones\obj\Debug\netcoreapp3.1\Operaciones.dll
+C:\Users\Matias\source\repos\Calculadora\Operaciones\obj\Debug\netcoreapp3.1\Operaciones.pdb

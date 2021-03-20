@@ -2,6 +2,16 @@
   "version": 3,
   "targets": {
     ".NETCoreApp,Version=v3.1": {
+      "Operaciones/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/Operaciones.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Operaciones.dll": {}
+        }
+      },
       "Validaciones/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
@@ -15,6 +25,11 @@
     }
   },
   "libraries": {
+    "Operaciones/1.0.0": {
+      "type": "project",
+      "path": "../Operaciones/Operaciones.csproj",
+      "msbuildProject": "../Operaciones/Operaciones.csproj"
+    },
     "Validaciones/1.0.0": {
       "type": "project",
       "path": "../Validaciones/Validaciones.csproj",
@@ -23,6 +38,7 @@
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
+      "Operaciones >= 1.0.0",
       "Validaciones >= 1.0.0"
     ]
   },
@@ -53,6 +69,9 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
+            "C:\\Users\\Matias\\source\\repos\\Calculadora\\Operaciones\\Operaciones.csproj": {
+              "projectPath": "C:\\Users\\Matias\\source\\repos\\Calculadora\\Operaciones\\Operaciones.csproj"
+            },
             "C:\\Users\\Matias\\source\\repos\\Calculadora\\Validaciones\\Validaciones.csproj": {
               "projectPath": "C:\\Users\\Matias\\source\\repos\\Calculadora\\Validaciones\\Validaciones.csproj"
             }

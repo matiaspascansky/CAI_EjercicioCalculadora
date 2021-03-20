@@ -8,10 +8,16 @@
     ".NETCoreApp,Version=v3.1": {
       "Calculadora/1.0.0": {
         "dependencies": {
+          "Operaciones": "1.0.0",
           "Validaciones": "1.0.0"
         },
         "runtime": {
           "Calculadora.dll": {}
+        }
+      },
+      "Operaciones/1.0.0": {
+        "runtime": {
+          "Operaciones.dll": {}
         }
       },
       "Validaciones/1.0.0": {
@@ -23,6 +29,11 @@
   },
   "libraries": {
     "Calculadora/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Operaciones/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

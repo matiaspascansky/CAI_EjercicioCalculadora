@@ -14,3 +14,5 @@ C:\Users\Matias\source\repos\Calculadora\Calculadora\obj\Debug\netcoreapp3.1\Cal
 C:\Users\Matias\source\repos\Calculadora\Calculadora\obj\Debug\netcoreapp3.1\Calculadora.dll
 C:\Users\Matias\source\repos\Calculadora\Calculadora\obj\Debug\netcoreapp3.1\Calculadora.pdb
 C:\Users\Matias\source\repos\Calculadora\Calculadora\obj\Debug\netcoreapp3.1\Calculadora.genruntimeconfig.cache
+C:\Users\Matias\source\repos\Calculadora\Calculadora\bin\Debug\netcoreapp3.1\Operaciones.dll
+C:\Users\Matias\source\repos\Calculadora\Calculadora\bin\Debug\netcoreapp3.1\Operaciones.pdb
