@@ -1,0 +1,9 @@
+C:\Users\Matias\source\repos\Calculadora\Validaciones\bin\Debug\netcoreapp3.1\Validaciones.deps.json
+C:\Users\Matias\source\repos\Calculadora\Validaciones\bin\Debug\netcoreapp3.1\Validaciones.dll
+C:\Users\Matias\source\repos\Calculadora\Validaciones\bin\Debug\netcoreapp3.1\Validaciones.pdb
+C:\Users\Matias\source\repos\Calculadora\Validaciones\obj\Debug\netcoreapp3.1\Validaciones.AssemblyInfoInputs.cache
+C:\Users\Matias\source\repos\Calculadora\Validaciones\obj\Debug\netcoreapp3.1\Validaciones.AssemblyInfo.cs
+C:\Users\Matias\source\repos\Calculadora\Validaciones\obj\Debug\netcoreapp3.1\Validaciones.csproj.CoreCompileInputs.cache
+C:\Users\Matias\source\repos\Calculadora\Validaciones\obj\Debug\netcoreapp3.1\Validaciones.dll
+C:\Users\Matias\source\repos\Calculadora\Validaciones\obj\Debug\netcoreapp3.1\Validaciones.pdb
+C:\Users\Matias\source\repos\Calculadora\Validaciones\obj\Debug\netcoreapp3.1\Validaciones.csprojAssemblyReference.cache
